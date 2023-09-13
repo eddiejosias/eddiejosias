@@ -26,42 +26,8 @@ Je travaille sur une variété de projets, de la conception de logiciels innovan
 
 ## Connectons-nous
 
-🔗 Vous pouvez me suivre sur [LinkedIn](https://www.linkedin.com/in/josiaseddie) pour en savoir plus sur mon parcours et mes intérêts professionnels.
+🔗 Vous pouvez me suivre sur [LinkedIn](https://www.linkedin.com/in/eddiejosias) pour en savoir plus sur mon parcours et mes intérêts professionnels.
 
 Merci d'avoir visité mon profil GitHub ! 🚀
 
-
-## Translate 
-
-#Eddie Kinsiclounon Josias Jérémie
-
-👋 Hello! I am Eddie Kinsiclounon Josias Jérémie, third year computer science student at ESGIS Benin, passionate about the world of technology and graphic design.
-
-## About me
-
-🎓 Currently, I am continuing my training in computer science with a specialization in Software Architecture. My academic background allowed me to acquire solid skills in software design and development.
-
-🎨 In addition to my studies, I am also a creative graphic designer. I love creating unique visual works and exploring the boundaries between art and technology.
-
-## My interests
-
-- 💻 Software architecture
-- 🖼️ Graphic design
-- 🌐 Web development
-- 🤖 Artificial Intelligence
-- 📊 Data visualization
-
-## Projects
-
-I work on a variety of projects, from designing innovative software to creating original graphic works. Here you will find examples of my work and contributions.
-
-## Contact
-
-📫 Do not hesitate to contact me if you have any questions, ideas for collaboration or simply to discuss exciting topics related to technology and design.
-
-## Let's connect
-
-🔗 You can follow me on [LinkedIn](https://www.linkedin.com/in/josiaseddie) to find out more about my journey and my professional interests.
-
-Thanks for visiting my GitHub profile! 🚀
 
